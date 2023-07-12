@@ -3,5 +3,5 @@ package com.JuanElKantar.juanapp
 class prueba {
 
 
-    hbhnj
+   var st:Int=2
 }
