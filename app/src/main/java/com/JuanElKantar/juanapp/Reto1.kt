@@ -15,8 +15,7 @@ fun main() {
     println("---------------------------------")
 
 
-    val juego: Boolean = true
-        if (juego) {
+
 
             var results: Int = (1..6).random()
             println("Tu primer dado cayó en  $results")
@@ -53,4 +52,3 @@ fun main() {
                 print("Perdió")
             }
         }
-}
